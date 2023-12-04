@@ -1,1 +1,3 @@
 # google app engine settings
+
+runtime: python39
